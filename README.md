@@ -4,17 +4,22 @@
 </a>
 
 
-Simple implementation of the Continuous Normalizing Flows used in: [arXiv:2307.01107
-](https://arxiv.org/abs/2307.01107)
+Simple implementation of the Continuous Normalizing Flows used in: [JHEP 02 (2024) 048](https://link.springer.com/article/10.1007/JHEP02(2024)048) 
+
+Preprint: [arXiv:2307.01107](https://arxiv.org/abs/2307.01107)
 
 If this code is useful for your research, please cite us:
 ```
-@article{caselle2023sampling,
-      title={Sampling the lattice Nambu-Goto string using Continuous Normalizing Flows}, 
-      author={Michele Caselle and Elia Cellini and Alessandro Nada},
-      year={2023},
-      eprint={2307.01107},
-      archivePrefix={arXiv},
-      primaryClass={hep-lat}
+@article{Caselle:2023mvh,
+    author = "Caselle, Michele and Cellini, Elia and Nada, Alessandro",
+    title = "{Sampling the lattice Nambu-Goto string using Continuous Normalizing Flows}",
+    eprint = "2307.01107",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-lat",
+    doi = "10.1007/JHEP02(2024)048",
+    journal = "JHEP",
+    volume = "02",
+    pages = "048",
+    year = "2024"
 }
 ```
